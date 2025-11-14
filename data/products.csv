@@ -1,0 +1,61 @@
+product_id,name,category,price,stock_qty,is_active
+1,Moccasin Toys Item 1,Toys,448.64,249,0
+2,AntiqueWhite Apparel Item 2,Apparel,109.54,482,1
+3,SaddleBrown Apparel Item 3,Apparel,318.66,152,1
+4,PapayaWhip Home & Kitchen Item 4,Home & Kitchen,196.34,453,1
+5,BlanchedAlmond Electronics Item 5,Electronics,454.39,453,0
+6,PaleGreen Electronics Item 6,Electronics,383.34,242,1
+7,GoldenRod Apparel Item 7,Apparel,447.17,430,1
+8,DarkGray Beauty Item 8,Beauty,156.89,120,0
+9,Gray Outdoors Item 9,Outdoors,327.48,360,0
+10,DodgerBlue Toys Item 10,Toys,327.94,483,0
+11,Indigo Apparel Item 11,Apparel,260.96,328,1
+12,Blue Home & Kitchen Item 12,Home & Kitchen,61.93,436,1
+13,SlateGray Apparel Item 13,Apparel,279.46,258,0
+14,Snow Outdoors Item 14,Outdoors,219.02,139,1
+15,DarkGray Outdoors Item 15,Outdoors,418.48,107,1
+16,Lime Electronics Item 16,Electronics,343.57,467,1
+17,RosyBrown Toys Item 17,Toys,205.0,67,0
+18,DarkSlateGray Electronics Item 18,Electronics,415.45,283,1
+19,Salmon Apparel Item 19,Apparel,165.59,233,1
+20,GreenYellow Toys Item 20,Toys,209.16,48,0
+21,Brown Beauty Item 21,Beauty,85.96,431,0
+22,PaleGoldenRod Home & Kitchen Item 22,Home & Kitchen,128.67,34,1
+23,BlueViolet Electronics Item 23,Electronics,241.09,72,1
+24,PapayaWhip Outdoors Item 24,Outdoors,99.32,425,0
+25,WhiteSmoke Apparel Item 25,Apparel,289.41,45,0
+26,HoneyDew Beauty Item 26,Beauty,65.43,265,0
+27,DarkMagenta Beauty Item 27,Beauty,432.95,246,0
+28,MediumSlateBlue Home & Kitchen Item 28,Home & Kitchen,455.52,251,1
+29,LightPink Electronics Item 29,Electronics,147.61,277,1
+30,Tan Outdoors Item 30,Outdoors,286.24,167,0
+31,RoyalBlue Toys Item 31,Toys,492.57,80,1
+32,SandyBrown Outdoors Item 32,Outdoors,457.46,361,0
+33,Turquoise Home & Kitchen Item 33,Home & Kitchen,209.95,42,1
+34,BlueViolet Electronics Item 34,Electronics,279.53,87,0
+35,SeaGreen Toys Item 35,Toys,31.4,384,0
+36,PaleVioletRed Electronics Item 36,Electronics,77.89,85,0
+37,Coral Apparel Item 37,Apparel,214.32,446,0
+38,SkyBlue Apparel Item 38,Apparel,22.61,25,1
+39,GreenYellow Home & Kitchen Item 39,Home & Kitchen,372.69,411,0
+40,Pink Apparel Item 40,Apparel,309.63,179,0
+41,Olive Electronics Item 41,Electronics,261.31,255,0
+42,Chartreuse Toys Item 42,Toys,129.2,79,1
+43,LightSalmon Outdoors Item 43,Outdoors,449.25,467,1
+44,Crimson Apparel Item 44,Apparel,67.52,460,1
+45,Peru Apparel Item 45,Apparel,180.26,173,0
+46,LightPink Beauty Item 46,Beauty,7.29,57,1
+47,Magenta Home & Kitchen Item 47,Home & Kitchen,486.3,425,1
+48,Purple Toys Item 48,Toys,482.1,438,0
+49,Maroon Electronics Item 49,Electronics,207.84,101,1
+50,Aqua Apparel Item 50,Apparel,292.65,254,0
+51,LightBlue Outdoors Item 51,Outdoors,331.11,235,0
+52,LightCoral Home & Kitchen Item 52,Home & Kitchen,210.53,102,0
+53,Blue Outdoors Item 53,Outdoors,414.19,270,0
+54,DeepPink Home & Kitchen Item 54,Home & Kitchen,48.62,202,1
+55,Aqua Toys Item 55,Toys,70.22,408,1
+56,RoyalBlue Beauty Item 56,Beauty,76.25,388,0
+57,LightSkyBlue Apparel Item 57,Apparel,333.94,244,0
+58,LightGreen Electronics Item 58,Electronics,283.46,54,0
+59,Beige Outdoors Item 59,Outdoors,47.6,347,0
+60,RoyalBlue Outdoors Item 60,Outdoors,55.67,312,1
